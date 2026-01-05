@@ -2,8 +2,8 @@ import "./App.css";
 import Logo from "./components/logo/index.js";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="app">
+      <header className="app-header">
         <Logo></Logo>
       </header>
     </div>
