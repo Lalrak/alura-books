@@ -5,7 +5,7 @@ function Logo(teste) {
     <div className="logo">
       <img src={logo} alt="logo" className="logo-image"></img>
       <p>
-        <strong>Alura Books</strong>
+        <strong>Alura</strong>Books
       </p>
     </div>
   );
