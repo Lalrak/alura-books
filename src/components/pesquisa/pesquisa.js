@@ -1,7 +1,7 @@
-import Input from "../input/input.component.js";
+import Input from "../input/input.js";
 import styled from "styled-components";
 import { useState } from "react";
-import { livros } from "./dadosPesquisa.component.js";
+import { livros } from "./dadosPesquisa.js";
 
 const PesquisaContainer = styled.section`
   background-image: linear-gradient(90deg, #002f52 35%, #326589 165%);
